@@ -1,0 +1,15 @@
+# Secrets
+.streamlit/secrets.toml
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local files
+*.docx
+*.pdf
+*.xlsx
+*.csv
